@@ -1,0 +1,449 @@
+"Country","Code","Year","Deaths.in.conflicts","Conflicts.take.place","Terrorist.attacks"
+"Algeria","DZA",1989,0,0,0
+"Algeria","DZA",1990,0,0,2
+"Algeria","DZA",1991,34,1,30
+"Algeria","DZA",1992,257,1,215
+"Algeria","DZA",1994,1916,1,227
+"Algeria","DZA",1995,3035,1,185
+"Algeria","DZA",1996,1084,1,129
+"Algeria","DZA",1997,2008,1,344
+"Algeria","DZA",1998,3281,1,151
+"Algeria","DZA",1999,1156,1,106
+"Algeria","DZA",2000,1191,1,138
+"Algeria","DZA",2001,674,1,113
+"Algeria","DZA",2002,1049,1,132
+"Algeria","DZA",2003,704,1,75
+"Algeria","DZA",2004,484,1,67
+"Algeria","DZA",2005,217,1,104
+"Algeria","DZA",2006,292,1,152
+"Algeria","DZA",2007,531,1,124
+"Algeria","DZA",2008,345,1,107
+"Algeria","DZA",2009,544,1,108
+"Algeria","DZA",2010,236,1,100
+"Algeria","DZA",2011,261,1,15
+"Algeria","DZA",2012,258,1,41
+"Algeria","DZA",2013,226,1,22
+"Algeria","DZA",2014,107,1,13
+"Algeria","DZA",2015,128,1,15
+"Algeria","DZA",2016,85,1,9
+"Algeria","DZA",2017,98,1,14
+"Algeria","DZA",2018,45,1,7
+"Algeria","DZA",2019,0,0,0
+"Algeria","DZA",2020,30,1,4
+"Algeria","DZA",2021,13,1,1
+"Burundi","BDI",1989,0,0,0
+"Burundi","BDI",1990,0,0,0
+"Burundi","BDI",1991,342,1,7
+"Burundi","BDI",1992,61,1,2
+"Burundi","BDI",1994,483,1,16
+"Burundi","BDI",1995,1630,1,83
+"Burundi","BDI",1996,3235,1,35
+"Burundi","BDI",1997,1620,1,79
+"Burundi","BDI",1998,1363,1,13
+"Burundi","BDI",1999,1009,1,13
+"Burundi","BDI",2000,2006,1,17
+"Burundi","BDI",2001,1231,1,37
+"Burundi","BDI",2002,1523,1,18
+"Burundi","BDI",2003,1246,1,18
+"Burundi","BDI",2004,677,1,1
+"Burundi","BDI",2005,378,1,5
+"Burundi","BDI",2006,177,1,5
+"Burundi","BDI",2007,52,1,3
+"Burundi","BDI",2008,201,1,7
+"Burundi","BDI",2009,0,0,0
+"Burundi","BDI",2010,0,0,29
+"Burundi","BDI",2011,0,0,8
+"Burundi","BDI",2012,0,0,4
+"Burundi","BDI",2013,0,0,2
+"Burundi","BDI",2014,56,1,5
+"Burundi","BDI",2015,264,1,102
+"Burundi","BDI",2016,72,1,83
+"Burundi","BDI",2017,38,1,21
+"Burundi","BDI",2018,109,1,10
+"Burundi","BDI",2019,75,1,6
+"Burundi","BDI",2020,127,1,7
+"Burundi","BDI",2021,76,1,6
+"Chad","TCD",1989,50,1,0
+"Chad","TCD",1990,263,1,0
+"Chad","TCD",1991,95,1,2
+"Chad","TCD",1992,1190,1,4
+"Chad","TCD",1994,510,1,1
+"Chad","TCD",1995,47,1,3
+"Chad","TCD",1996,0,0,1
+"Chad","TCD",1997,137,1,1
+"Chad","TCD",1998,179,1,1
+"Chad","TCD",1999,394,1,1
+"Chad","TCD",2000,844,1,0
+"Chad","TCD",2001,230,1,0
+"Chad","TCD",2002,297,1,4
+"Chad","TCD",2003,224,1,0
+"Chad","TCD",2004,221,1,0
+"Chad","TCD",2005,265,1,0
+"Chad","TCD",2006,1654,1,11
+"Chad","TCD",2007,280,1,7
+"Chad","TCD",2008,991,1,8
+"Chad","TCD",2009,135,1,3
+"Chad","TCD",2010,4,1,1
+"Chad","TCD",2011,0,0,0
+"Chad","TCD",2012,0,0,0
+"Chad","TCD",2013,0,0,0
+"Chad","TCD",2014,6,1,1
+"Chad","TCD",2015,389,1,27
+"Chad","TCD",2016,2,1,5
+"Chad","TCD",2017,88,1,6
+"Chad","TCD",2018,168,1,12
+"Chad","TCD",2019,258,1,14
+"Chad","TCD",2020,249,1,15
+"Chad","TCD",2021,666,1,2
+"Democratic Republic of Congo","COD",1989,28,1,0
+"Democratic Republic of Congo","COD",1990,147,1,0
+"Democratic Republic of Congo","COD",1991,32,1,0
+"Democratic Republic of Congo","COD",1992,67,1,0
+"Democratic Republic of Congo","COD",1994,333,1,0
+"Democratic Republic of Congo","COD",1995,523,1,0
+"Democratic Republic of Congo","COD",1996,33062,1,0
+"Democratic Republic of Congo","COD",1997,13802,1,1
+"Democratic Republic of Congo","COD",1998,7456,1,4
+"Democratic Republic of Congo","COD",1999,7451,1,3
+"Democratic Republic of Congo","COD",2000,2968,1,3
+"Democratic Republic of Congo","COD",2001,1616,1,5
+"Democratic Republic of Congo","COD",2002,8012,1,7
+"Democratic Republic of Congo","COD",2003,4263,1,6
+"Democratic Republic of Congo","COD",2004,661,1,5
+"Democratic Republic of Congo","COD",2005,289,1,5
+"Democratic Republic of Congo","COD",2006,323,1,5
+"Democratic Republic of Congo","COD",2007,817,1,11
+"Democratic Republic of Congo","COD",2008,1697,1,20
+"Democratic Republic of Congo","COD",2009,5035,1,54
+"Democratic Republic of Congo","COD",2010,1063,1,18
+"Democratic Republic of Congo","COD",2011,418,1,16
+"Democratic Republic of Congo","COD",2012,1630,1,25
+"Democratic Republic of Congo","COD",2013,3100,1,22
+"Democratic Republic of Congo","COD",2014,1948,1,110
+"Democratic Republic of Congo","COD",2015,759,1,143
+"Democratic Republic of Congo","COD",2016,2142,1,169
+"Democratic Republic of Congo","COD",2017,5807,1,143
+"Democratic Republic of Congo","COD",2018,2938,1,163
+"Democratic Republic of Congo","COD",2019,2385,1,250
+"Democratic Republic of Congo","COD",2020,3841,1,310
+"Democratic Republic of Congo","COD",2021,3513,1,142
+"Egypt","EGY",1989,0,0,7
+"Egypt","EGY",1990,0,0,13
+"Egypt","EGY",1991,0,0,10
+"Egypt","EGY",1992,0,0,79
+"Egypt","EGY",1994,145,1,143
+"Egypt","EGY",1995,227,1,102
+"Egypt","EGY",1996,149,1,51
+"Egypt","EGY",1997,143,1,22
+"Egypt","EGY",1998,27,1,3
+"Egypt","EGY",1999,0,0,1
+"Egypt","EGY",2000,0,0,0
+"Egypt","EGY",2001,0,0,0
+"Egypt","EGY",2002,0,0,0
+"Egypt","EGY",2003,0,0,0
+"Egypt","EGY",2004,2,1,3
+"Egypt","EGY",2005,124,1,2
+"Egypt","EGY",2006,0,0,5
+"Egypt","EGY",2007,0,0,0
+"Egypt","EGY",2008,0,0,1
+"Egypt","EGY",2009,0,0,2
+"Egypt","EGY",2010,0,0,2
+"Egypt","EGY",2011,31,1,18
+"Egypt","EGY",2012,74,1,49
+"Egypt","EGY",2013,119,1,321
+"Egypt","EGY",2014,178,1,354
+"Egypt","EGY",2015,861,1,647
+"Egypt","EGY",2016,387,1,376
+"Egypt","EGY",2017,855,1,225
+"Egypt","EGY",2018,684,1,54
+"Egypt","EGY",2019,633,1,63
+"Egypt","EGY",2020,498,1,57
+"Egypt","EGY",2021,87,1,11
+"Ethiopia","ETH",1989,18769,1,1
+"Ethiopia","ETH",1990,19191,1,10
+"Ethiopia","ETH",1991,6388,1,5
+"Ethiopia","ETH",1992,1014,1,13
+"Ethiopia","ETH",1994,75,1,4
+"Ethiopia","ETH",1995,1029,1,5
+"Ethiopia","ETH",1996,52,1,7
+"Ethiopia","ETH",1997,2,1,6
+"Ethiopia","ETH",1998,1123,1,0
+"Ethiopia","ETH",1999,2786,1,2
+"Ethiopia","ETH",2000,442,1,1
+"Ethiopia","ETH",2001,370,1,0
+"Ethiopia","ETH",2002,801,1,3
+"Ethiopia","ETH",2003,1064,1,1
+"Ethiopia","ETH",2004,462,1,2
+"Ethiopia","ETH",2005,247,1,5
+"Ethiopia","ETH",2006,597,1,11
+"Ethiopia","ETH",2007,471,1,5
+"Ethiopia","ETH",2008,275,1,8
+"Ethiopia","ETH",2009,834,1,2
+"Ethiopia","ETH",2010,31,1,2
+"Ethiopia","ETH",2011,57,1,3
+"Ethiopia","ETH",2012,391,1,3
+"Ethiopia","ETH",2013,274,1,5
+"Ethiopia","ETH",2014,26,1,2
+"Ethiopia","ETH",2015,318,1,7
+"Ethiopia","ETH",2016,570,1,13
+"Ethiopia","ETH",2017,450,1,28
+"Ethiopia","ETH",2018,672,1,10
+"Ethiopia","ETH",2019,412,1,26
+"Ethiopia","ETH",2020,4819,1,53
+"Ethiopia","ETH",2021,13532,1,36
+"Kenya","KEN",1989,60,1,4
+"Kenya","KEN",1990,0,0,0
+"Kenya","KEN",1991,0,0,5
+"Kenya","KEN",1992,151,1,30
+"Kenya","KEN",1994,28,1,5
+"Kenya","KEN",1995,44,1,4
+"Kenya","KEN",1996,145,1,3
+"Kenya","KEN",1997,185,1,17
+"Kenya","KEN",1998,321,1,2
+"Kenya","KEN",1999,208,1,0
+"Kenya","KEN",2000,218,1,4
+"Kenya","KEN",2001,171,1,7
+"Kenya","KEN",2002,13,1,2
+"Kenya","KEN",2003,0,0,2
+"Kenya","KEN",2004,3,1,0
+"Kenya","KEN",2005,126,1,2
+"Kenya","KEN",2006,111,1,2
+"Kenya","KEN",2007,169,1,12
+"Kenya","KEN",2008,733,1,11
+"Kenya","KEN",2009,124,1,1
+"Kenya","KEN",2010,55,1,12
+"Kenya","KEN",2011,98,1,42
+"Kenya","KEN",2012,265,1,80
+"Kenya","KEN",2013,212,1,80
+"Kenya","KEN",2014,244,1,115
+"Kenya","KEN",2015,350,1,70
+"Kenya","KEN",2016,88,1,65
+"Kenya","KEN",2017,144,1,97
+"Kenya","KEN",2018,103,1,52
+"Kenya","KEN",2019,158,1,50
+"Kenya","KEN",2020,99,1,66
+"Kenya","KEN",2021,102,1,33
+"Niger","NER",1989,170,1,1
+"Niger","NER",1990,200,1,0
+"Niger","NER",1991,40,1,6
+"Niger","NER",1992,29,1,16
+"Niger","NER",1994,50,1,8
+"Niger","NER",1995,65,1,2
+"Niger","NER",1996,0,0,1
+"Niger","NER",1997,74,1,3
+"Niger","NER",1998,147,1,0
+"Niger","NER",1999,0,0,2
+"Niger","NER",2000,0,0,0
+"Niger","NER",2001,0,0,0
+"Niger","NER",2002,0,0,0
+"Niger","NER",2003,0,0,0
+"Niger","NER",2004,4,1,0
+"Niger","NER",2005,0,0,0
+"Niger","NER",2006,0,0,0
+"Niger","NER",2007,81,1,7
+"Niger","NER",2008,47,1,9
+"Niger","NER",2009,0,0,4
+"Niger","NER",2010,0,0,3
+"Niger","NER",2011,3,1,2
+"Niger","NER",2012,0,0,1
+"Niger","NER",2013,31,1,4
+"Niger","NER",2014,0,1,5
+"Niger","NER",2015,533,1,41
+"Niger","NER",2016,300,1,25
+"Niger","NER",2017,177,1,13
+"Niger","NER",2018,186,1,19
+"Niger","NER",2019,476,1,49
+"Niger","NER",2020,835,1,35
+"Niger","NER",2021,1184,1,38
+"Nigeria","NGA",1989,0,0,0
+"Nigeria","NGA",1990,80,1,0
+"Nigeria","NGA",1991,380,1,3
+"Nigeria","NGA",1992,942,1,11
+"Nigeria","NGA",1994,86,1,8
+"Nigeria","NGA",1995,0,0,1
+"Nigeria","NGA",1996,80,1,11
+"Nigeria","NGA",1997,562,1,20
+"Nigeria","NGA",1998,323,1,2
+"Nigeria","NGA",1999,3519,1,18
+"Nigeria","NGA",2000,2085,1,6
+"Nigeria","NGA",2001,2362,1,5
+"Nigeria","NGA",2002,585,1,6
+"Nigeria","NGA",2003,426,1,9
+"Nigeria","NGA",2004,2088,1,6
+"Nigeria","NGA",2005,162,1,9
+"Nigeria","NGA",2006,200,1,37
+"Nigeria","NGA",2007,100,1,61
+"Nigeria","NGA",2008,379,1,76
+"Nigeria","NGA",2009,438,1,42
+"Nigeria","NGA",2010,888,1,63
+"Nigeria","NGA",2011,1821,1,175
+"Nigeria","NGA",2012,1951,1,615
+"Nigeria","NGA",2013,3288,1,347
+"Nigeria","NGA",2014,9935,1,713
+"Nigeria","NGA",2015,8491,1,641
+"Nigeria","NGA",2016,3817,1,535
+"Nigeria","NGA",2017,3568,1,488
+"Nigeria","NGA",2018,3121,1,650
+"Nigeria","NGA",2019,2285,1,507
+"Nigeria","NGA",2020,2912,1,478
+"Nigeria","NGA",2021,3038,1,448
+"Senegal","SEN",1989,124,1,0
+"Senegal","SEN",1990,59,1,11
+"Senegal","SEN",1991,0,0,4
+"Senegal","SEN",1992,127,1,15
+"Senegal","SEN",1994,0,0,2
+"Senegal","SEN",1995,299,1,8
+"Senegal","SEN",1996,0,0,0
+"Senegal","SEN",1997,358,1,26
+"Senegal","SEN",1998,336,1,1
+"Senegal","SEN",1999,0,0,1
+"Senegal","SEN",2000,47,1,4
+"Senegal","SEN",2001,33,1,8
+"Senegal","SEN",2002,25,1,3
+"Senegal","SEN",2003,39,1,0
+"Senegal","SEN",2004,0,0,0
+"Senegal","SEN",2005,45,1,1
+"Senegal","SEN",2006,124,1,0
+"Senegal","SEN",2007,0,0,1
+"Senegal","SEN",2008,0,0,2
+"Senegal","SEN",2009,0,0,3
+"Senegal","SEN",2010,0,0,1
+"Senegal","SEN",2011,25,1,4
+"Senegal","SEN",2012,0,0,12
+"Senegal","SEN",2013,0,0,3
+"Senegal","SEN",2014,0,0,2
+"Senegal","SEN",2015,0,0,2
+"Senegal","SEN",2016,0,0,0
+"Senegal","SEN",2017,0,0,0
+"Senegal","SEN",2018,0,0,3
+"Senegal","SEN",2019,0,0,1
+"Senegal","SEN",2020,0,0,0
+"Senegal","SEN",2021,0,0,0
+"Somalia","SOM",1989,1067,1,2
+"Somalia","SOM",1990,2760,1,12
+"Somalia","SOM",1991,8455,1,8
+"Somalia","SOM",1992,4729,1,21
+"Somalia","SOM",1994,625,1,57
+"Somalia","SOM",1995,460,1,13
+"Somalia","SOM",1996,939,1,16
+"Somalia","SOM",1997,268,1,19
+"Somalia","SOM",1998,312,1,1
+"Somalia","SOM",1999,522,1,4
+"Somalia","SOM",2000,171,1,9
+"Somalia","SOM",2001,445,1,5
+"Somalia","SOM",2002,624,1,3
+"Somalia","SOM",2003,395,1,1
+"Somalia","SOM",2004,666,1,1
+"Somalia","SOM",2005,388,1,6
+"Somalia","SOM",2006,1187,1,10
+"Somalia","SOM",2007,1585,1,156
+"Somalia","SOM",2008,1732,1,172
+"Somalia","SOM",2009,2146,1,122
+"Somalia","SOM",2010,2817,1,130
+"Somalia","SOM",2011,2125,1,185
+"Somalia","SOM",2012,2991,1,325
+"Somalia","SOM",2013,1037,1,342
+"Somalia","SOM",2014,1291,1,872
+"Somalia","SOM",2015,1263,1,422
+"Somalia","SOM",2016,2074,1,602
+"Somalia","SOM",2017,2065,1,617
+"Somalia","SOM",2018,2430,1,527
+"Somalia","SOM",2019,2180,1,361
+"Somalia","SOM",2020,2095,1,280
+"Somalia","SOM",2021,2259,1,125
+"South Sudan","SSD",1989,3907,1,0
+"South Sudan","SSD",1990,4272,1,0
+"South Sudan","SSD",1991,4206,1,0
+"South Sudan","SSD",1992,3346,1,0
+"South Sudan","SSD",1994,491,1,0
+"South Sudan","SSD",1995,1162,1,0
+"South Sudan","SSD",1996,2374,1,0
+"South Sudan","SSD",1997,3574,1,0
+"South Sudan","SSD",1998,3887,1,0
+"South Sudan","SSD",1999,558,1,0
+"South Sudan","SSD",2000,1953,1,0
+"South Sudan","SSD",2001,2809,1,0
+"South Sudan","SSD",2002,2978,1,0
+"South Sudan","SSD",2003,62,1,0
+"South Sudan","SSD",2004,1241,1,0
+"South Sudan","SSD",2005,168,1,0
+"South Sudan","SSD",2006,155,1,0
+"South Sudan","SSD",2007,275,1,0
+"South Sudan","SSD",2008,135,1,0
+"South Sudan","SSD",2009,1716,1,0
+"South Sudan","SSD",2010,266,1,0
+"South Sudan","SSD",2011,3037,1,0
+"South Sudan","SSD",2012,807,1,5
+"South Sudan","SSD",2013,1699,1,13
+"South Sudan","SSD",2014,2461,1,40
+"South Sudan","SSD",2015,1104,1,54
+"South Sudan","SSD",2016,1276,1,59
+"South Sudan","SSD",2017,1224,1,54
+"South Sudan","SSD",2018,1128,1,69
+"South Sudan","SSD",2019,585,1,13
+"South Sudan","SSD",2020,638,1,16
+"South Sudan","SSD",2021,885,1,14
+"Sudan","SDN",1989,3607,1,8
+"Sudan","SDN",1990,1449,1,1
+"Sudan","SDN",1991,359,1,3
+"Sudan","SDN",1992,968,1,7
+"Sudan","SDN",1994,467,1,5
+"Sudan","SDN",1995,332,1,4
+"Sudan","SDN",1996,293,1,10
+"Sudan","SDN",1997,1289,1,3
+"Sudan","SDN",1998,1922,1,0
+"Sudan","SDN",1999,1506,1,5
+"Sudan","SDN",2000,1573,1,7
+"Sudan","SDN",2001,910,1,9
+"Sudan","SDN",2002,249,1,13
+"Sudan","SDN",2003,4761,1,0
+"Sudan","SDN",2004,8308,1,5
+"Sudan","SDN",2005,1313,1,6
+"Sudan","SDN",2006,2242,1,24
+"Sudan","SDN",2007,948,1,23
+"Sudan","SDN",2008,1102,1,32
+"Sudan","SDN",2009,692,1,26
+"Sudan","SDN",2010,1481,1,28
+"Sudan","SDN",2011,732,1,38
+"Sudan","SDN",2012,1539,1,40
+"Sudan","SDN",2013,1843,1,46
+"Sudan","SDN",2014,1901,1,157
+"Sudan","SDN",2015,2522,1,158
+"Sudan","SDN",2016,1921,1,173
+"Sudan","SDN",2017,485,1,106
+"Sudan","SDN",2018,414,1,42
+"Sudan","SDN",2019,480,1,26
+"Sudan","SDN",2020,605,1,33
+"Sudan","SDN",2021,806,1,13
+"Uganda","UGA",1989,1048,1,15
+"Uganda","UGA",1990,809,1,14
+"Uganda","UGA",1991,1018,1,2
+"Uganda","UGA",1992,72,1,3
+"Uganda","UGA",1994,149,1,13
+"Uganda","UGA",1995,531,1,7
+"Uganda","UGA",1996,1769,1,29
+"Uganda","UGA",1997,1352,1,24
+"Uganda","UGA",1998,1186,1,18
+"Uganda","UGA",1999,1013,1,19
+"Uganda","UGA",2000,1199,1,20
+"Uganda","UGA",2001,198,1,24
+"Uganda","UGA",2002,1296,1,24
+"Uganda","UGA",2003,1646,1,30
+"Uganda","UGA",2004,2020,1,10
+"Uganda","UGA",2005,935,1,11
+"Uganda","UGA",2006,266,1,0
+"Uganda","UGA",2007,168,1,1
+"Uganda","UGA",2008,7,1,7
+"Uganda","UGA",2009,40,1,2
+"Uganda","UGA",2010,75,1,6
+"Uganda","UGA",2011,1,1,0
+"Uganda","UGA",2012,25,1,4
+"Uganda","UGA",2013,28,1,0
+"Uganda","UGA",2014,0,0,6
+"Uganda","UGA",2015,0,0,10
+"Uganda","UGA",2016,48,1,15
+"Uganda","UGA",2017,35,1,13
+"Uganda","UGA",2018,0,1,10
+"Uganda","UGA",2019,3,1,4
+"Uganda","UGA",2020,4,1,5
+"Uganda","UGA",2021,3,1,11
